@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name dds_pi)(type KiCad)(uri "$(KIPRJMOD)/dds_pi.pretty")(options "")(descr ""))
+)
